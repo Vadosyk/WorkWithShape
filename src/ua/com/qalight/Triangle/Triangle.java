@@ -27,7 +27,7 @@ public class Triangle implements Shape {
 	}
 
 
-	public int getArea() {
+	public Integer getArea() {
 		
 		return bese*heigth/2;
 	}

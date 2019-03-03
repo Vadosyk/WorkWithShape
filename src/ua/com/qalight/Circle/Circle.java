@@ -22,7 +22,7 @@ public class Circle extends AbstractShape  {
 		
 	}
 
-	public int getArea() {
+	public Integer getArea() {
 		return (int)(radius*radius*Math.PI);
 	}
 

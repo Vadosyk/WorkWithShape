@@ -14,7 +14,7 @@ public class Square extends AbstractShape{
 		this.side = side;
 	}
 
-	public int getArea() {
+	public Integer getArea() {
 		return side*side;
 	}
 
